@@ -11,3 +11,7 @@ wheels/
 
 # large files
 data/
+machine_exercises/data/
+machine_exercises/lightning_logs/
+*.ckpt
+
